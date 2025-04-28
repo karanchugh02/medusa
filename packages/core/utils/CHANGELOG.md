@@ -1,5 +1,12 @@
 # @medusajs/utils
 
+## 2.7.2
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @medusajs/types@2.7.2
+
 ## 2.7.1
 
 ### Patch Changes

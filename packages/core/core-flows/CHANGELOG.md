@@ -1,5 +1,14 @@
 # @medusajs/core-flows
 
+## 2.7.2
+
+### Patch Changes
+
+- [#12269](https://github.com/medusajs/medusa/pull/12269) [`d7a273ff2def96420054f31114a46294be6ee968`](https://github.com/medusajs/medusa/commit/d7a273ff2def96420054f31114a46294be6ee968) Thanks [@fPolic](https://github.com/fPolic)! - fix(core-flows): handle inventory kit items in mark-as-shipped and mark-as-delivered flows
+
+- Updated dependencies []:
+  - @medusajs/framework@2.7.2
+
 ## 2.7.1
 
 ### Patch Changes
